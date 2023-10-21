@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BM_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="77.110795"
+     inkscape:cy="542.80702"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g844"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2992"
+     inkscape:window-y="107"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <g
+       id="g844">
+      <g
+         id="g851"
+         transform="translate(2.3311104,205.08912)">
+        <path
+           id="path833"
+           transform="scale(0.26458333)"
+           d="M 177.14258,27.259766 A 131.14381,131.14381 0 0 0 45.998047,158.40234 131.14381,131.14381 0 0 0 177.14258,289.54688 131.14381,131.14381 0 0 0 308.28711,158.40234 131.14381,131.14381 0 0 0 177.14258,27.259766 Z"
+           style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.12868357;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           aria-label="BM"
+           transform="matrix(0.26458333,0,0,0.26458333,-4.5357118,-111.69528)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'Nexa Bold';-inkscape-font-specification:'Nexa Bold, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="flowRoot823">
+          <path
+             d="m 85.027734,589.48611 h 38.783996 c 10.368,0 25.152,6.336 25.152,18.432 0,12.672 -14.784,16.128 -25.152,16.128 H 85.027734 Z m 0,-53.184 h 38.783996 c 16.128,0 21.12,10.368 21.12,16.512 0,7.68 -5.184,14.4 -21.12,14.4 H 85.027734 Z m 38.783996,-23.04 c -21.312,0 -42.623996,0 -63.743996,0 v 134.4 c 21.312,0 42.431996,0 63.743996,0 27.84,0 50.304,-9.6 50.304,-39.552 0,-8.448 -5.76,-25.152 -21.504,-29.952 12.48,-5.568 17.472,-15.552 17.472,-25.92 0,-27.072 -19.776,-38.976 -46.272,-38.976 z"
+             id="path835"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 309.20573,647.85411 h 25.344 v -134.4 h -28.992 l -42.048,57.792 -42.048,-57.792 h -29.184 v 134.4 h 25.344 v -97.728 l 42.816,58.56 h 4.992 l 43.776,-58.368 z"
+             id="path837"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
